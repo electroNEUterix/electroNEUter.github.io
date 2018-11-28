@@ -28,27 +28,42 @@ margin-top: 1rem;
 }
 
 .on{
-content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+content:url('https://electroneuterix.github.io/CSS/assets/Electro.gif');
 }
 
 .onp{
 content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+	width: 30rem;
+	height:30rem;
+	margin: 1rem;
 }
 
 .onp2{
 content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+	width: 30rem;
+	height:30rem;
+	margin: 1rem;
 }
 
 .onp3{
 content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+	width: 30rem;
+	height:30rem;
+	margin: 1rem;
 }
 
 .onp4{
 content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+	width: 30rem;
+	height:30rem;
+	margin: 1rem;
 }
 
 .onp5{
 content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+	width: 30rem;
+	height:30rem;
+	margin: 1rem;
 }
 
 .onoffswitch {
