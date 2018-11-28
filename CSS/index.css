@@ -22,13 +22,33 @@ body {
 
 
 center img {
-content:url('https://electroneuterix.github.io/CSS/assets/Electro.png');
+content:url('https://i.imgur.com/ahKzFV7.png');
 display: block;	
 margin-top: 1rem;
 }
 
 .on{
-content:url('https://electroneuterix.github.io/CSS/assets/Electro.gif');
+content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+}
+
+.onp{
+content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+}
+
+.onp2{
+content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+}
+
+.onp3{
+content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+}
+
+.onp4{
+content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
+}
+
+.onp5{
+content:url('https://electroneuterix.github.io/CSS/assets/Plant.gif');
 }
 
 .onoffswitch {
